@@ -29,4 +29,9 @@ Based on the analysis of the data provided by the Colorado Board of Elections th
 	- Diana DeGette, who received 73.8T of the votes and 272,892 total votes.
 
 ## Challenge Overview
+
+### The challenge was intended to add to the completed code the county break down of the election results. Using the code we had already completed to calculate the vote totals and percentages by candidate, we are able to refactor the code to focus on vote totals and percentages by county. We are also able to adjust the print statements and write functions to the text file to use the new variables set up for the counties.
+
 ## Challenge Summary 
+
+### The challenge was intended to add to the completed code the county break down of the election results. With this in mind, we break down the percent of the county out of the total vote and the total votes for the county itself. We also add a note of the county with the largest turnout (which is of course, Denver).
